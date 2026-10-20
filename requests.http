@@ -18,7 +18,7 @@ Content-Type: application/json
 }
 
 #### Get a Message by ID
-GET http://localhost:3000/messages/1
+GET http://localhost:3000/messages/986
 
 #### Delete a Message by ID
 DELETE http://localhost:3000/messages/1
